@@ -1,3 +1,9 @@
+body{
+  border: none;
+  margin: 0;
+  padding: 0;
+
+}
 .image{
   background-image: url("https://dl.dropboxusercontent.com/s/d6jtfv4vmsyrdpb/newyorkcontrast1%20copy.JPG?dl=0");
   background-size: cover;
@@ -5,6 +11,9 @@
   background-repeat: no-repeat;
   background-color: #fff;
   padding: 1vw 0px 50px 0px;
+  border-style:none;
+  outline: none;
+
 
 }
 
