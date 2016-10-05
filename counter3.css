@@ -1,3 +1,13 @@
+.image{
+  background-image: url("https://dl.dropboxusercontent.com/s/d6jtfv4vmsyrdpb/newyorkcontrast1%20copy.JPG?dl=0");
+  background-size: cover;
+
+  background-repeat: no-repeat;
+  background-color: #fff;
+  padding: 1vw 0px 50px 0px;
+
+}
+
 .digit{
   font-size: 10vw;
   background-color: #fff;
@@ -13,14 +23,16 @@
   color: #313132;
   font-weight: 300;
 
+
 }
 
 .digit2{
   font-size: 2vw;
   background-color: transparent;
   font-family: open-sans, sans-serif;
-  color: #333;
+  color: #fff;
   font-weight: 100;
+
 
 }
 
@@ -30,6 +42,7 @@
   font-family: open-sans, sans-serif;
   padding: 4.8vw
 
+
 }
 
 .span{
@@ -37,6 +50,7 @@
   color: #fff;
   background-color: transparent;
   border: none;
+
 }
 
 .box{
@@ -46,12 +60,14 @@
   text-align: center;
   margin-top: 50px;
 
+
 }
 
 .button2 {
   align-items: center;
   text-align: center;
   margin-top: 60px;
+
 }
 
 .button {
@@ -69,6 +85,7 @@
     font: normal normal 500 20px open-sans, sans-serif;
     color: #ffffff;
     text-decoration: none;
+
 }
 .button:hover,
 .button:focus {
